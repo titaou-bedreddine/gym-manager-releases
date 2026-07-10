@@ -1,5 +1,5 @@
 {
-  "version": "12.1.0",
+  "version": "12.2.0",
   "download_url": "https://titaou-bedreddine.github.io/gym-manager-releases/GymManager.exe",
-  "changelog": "Fix: single-instance guard crash on second launch (tkinter.messagebox not imported). Bumps version to 12.1.0."
+  "changelog": "Nouveau système de licence: activation par fichier license.lic (hors-ligne) ou par série (internet requis). Les séries sont liées au HWID et peuvent être révoquées."
 }
