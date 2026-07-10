@@ -1,0 +1,5 @@
+{
+  "version": "12.1.0",
+  "download_url": "https://titaou-bedreddine.github.io/gym-manager-releases/GymManager.exe",
+  "changelog": "Fix: single-instance guard crash on second launch (tkinter.messagebox not imported). Bumps version to 12.1.0."
+}
