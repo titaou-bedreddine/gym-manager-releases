@@ -1,5 +1,5 @@
 {
-  "version": "12.3.0",
+  "version": "12.4.0",
   "download_url": "https://titaou-bedreddine.github.io/gym-manager-releases/GymManager.exe",
-  "changelog": "Notifications Telegram: message de bienvenue à l'inscription, rappels d'expiration automatiques, diffusion manuelle (offres/horaires). Champ téléphone et Chat ID Telegram ajoutés à la fiche membre. Templates de messages personnalisables."
+  "changelog": "Rapports temps réel Telegram au propriétaire: abonnement, vente POS, entrée/sortie, paiement de dette — chaque option activable/désactivable. Rapport journalier automatique (recette, ventes, présence, dettes) à heure configurable."
 }
