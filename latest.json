@@ -1,5 +1,5 @@
 {
-  "version": "12.2.0",
+  "version": "12.3.0",
   "download_url": "https://titaou-bedreddine.github.io/gym-manager-releases/GymManager.exe",
-  "changelog": "Nouveau système de licence: activation par fichier license.lic (hors-ligne) ou par série (internet requis). Les séries sont liées au HWID et peuvent être révoquées."
+  "changelog": "Notifications Telegram: message de bienvenue à l'inscription, rappels d'expiration automatiques, diffusion manuelle (offres/horaires). Champ téléphone et Chat ID Telegram ajoutés à la fiche membre. Templates de messages personnalisables."
 }
