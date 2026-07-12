@@ -1,5 +1,5 @@
 {
-  "version": "12.5.2",
+  "version": "12.5.3",
   "download_url": "https://titaou-bedreddine.github.io/gym-manager-releases/GymManager.exe",
-  "changelog": "Fix CRITIQUE: crash au clic sur Parametres (faute de frappe dans le code SMS)."
+  "changelog": "Fix: l'application redémarre maintenant après la mise à jour (chemin absolu du exe)."
 }
