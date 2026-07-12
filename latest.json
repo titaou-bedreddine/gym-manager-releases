@@ -1,5 +1,5 @@
 {
-  "version": "12.5.1",
+  "version": "12.5.2",
   "download_url": "https://titaou-bedreddine.github.io/gym-manager-releases/GymManager.exe",
-  "changelog": "Fix: IN/OUT manuel toggle selon l'etat du membre (etait toujours IN). Telegram: message d'erreur detaille dans la console. SMS test: fix du blocage. Dialogue Diffusion: explication des echecs. Optimisation DB broadcast."
+  "changelog": "Fix CRITIQUE: crash au clic sur Parametres (faute de frappe dans le code SMS)."
 }
