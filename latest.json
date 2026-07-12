@@ -1,5 +1,5 @@
 {
-  "version": "12.5.0",
+  "version": "12.5.1",
   "download_url": "https://titaou-bedreddine.github.io/gym-manager-releases/GymManager.exe",
-  "changelog": "SMS via Huawei B310 router: bienvenue a l'inscription, rappels d'expiration, confirmation de paiement, diffusion manuelle. SmsLog table pour audit + anti-doublons. Envoi en arriere-plan (non bloquant). Templates SMS personnalisables."
+  "changelog": "Fix: IN/OUT manuel toggle selon l'etat du membre (etait toujours IN). Telegram: message d'erreur detaille dans la console. SMS test: fix du blocage. Dialogue Diffusion: explication des echecs. Optimisation DB broadcast."
 }
