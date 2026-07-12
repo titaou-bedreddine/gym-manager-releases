@@ -1,5 +1,5 @@
 {
-  "version": "12.4.0",
+  "version": "12.5.0",
   "download_url": "https://titaou-bedreddine.github.io/gym-manager-releases/GymManager.exe",
-  "changelog": "Rapports temps réel Telegram au propriétaire: abonnement, vente POS, entrée/sortie, paiement de dette — chaque option activable/désactivable. Rapport journalier automatique (recette, ventes, présence, dettes) à heure configurable."
+  "changelog": "SMS via Huawei B310 router: bienvenue a l'inscription, rappels d'expiration, confirmation de paiement, diffusion manuelle. SmsLog table pour audit + anti-doublons. Envoi en arriere-plan (non bloquant). Templates SMS personnalisables."
 }
