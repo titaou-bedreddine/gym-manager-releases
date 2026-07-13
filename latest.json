@@ -1,5 +1,5 @@
 {
-  "version": "12.5.3",
+  "version": "12.5.4",
   "download_url": "https://titaou-bedreddine.github.io/gym-manager-releases/GymManager.exe",
-  "changelog": "Fix: l'application redémarre maintenant après la mise à jour (chemin absolu du exe)."
+  "changelog": "Fix SMS Huawei: recuperation automatique de l'adresse du centre SMS (SCA) pour resoudre l'erreur 100005. Messages d'erreur detailles dans le test SMS. Le redemarrage apres mise a jour fonctionne maintenant."
 }
