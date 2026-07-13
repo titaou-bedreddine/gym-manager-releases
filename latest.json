@@ -1,5 +1,5 @@
 {
-  "version": "12.5.5",
+  "version": "12.5.6",
   "download_url": "https://titaou-bedreddine.github.io/gym-manager-releases/GymManager.exe",
-  "changelog": "huawei_sms.py reverti a la version originale (fonctionnelle). Dialogue Diffusion SMS en theme sombre (etait blanc)."
+  "changelog": "تم إصلاح مشكلة إرسال رسائل SMS (ربط الإشارة الخلفية).\nإمكانية البحث عن الأعضاء بواسطة رقم الهاتف.\nدعم إدخال رقم الهاتف بصيغة 0666545678 وتنسيقه تلقائياً.\nتحسين المظهر الجمالي لصندوق إرسال رسائل SMS وتغيير السمة إلى الوضع الداكن.\nتغيير اسم التطبيق إلى TitaouGym Ultimate."
 }
