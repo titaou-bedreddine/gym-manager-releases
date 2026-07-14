@@ -1,5 +1,5 @@
 ﻿{
-  "version": "12.7.1",
+  "version": "12.7.2",
   "download_url": "https://titaou-bedreddine.github.io/gym-manager-releases/GymManager.exe",
-  "changelog": "v12.7.1 — Fix SMS envoi, couleur statut sur tout le panneau Renouvellement, Enregistrer Infos nouveaux clients, theme sombre unifie, reorganisation boutons, champ RFID securise"
+  "changelog": "v12.7.2 — Correction de la normalisation des numéros de téléphone pour utiliser le format local 10 chiffres (0XXXXXXXXX), évitant les erreurs SCA (code 100005) sur les routeurs Huawei"
 }
