@@ -1,5 +1,5 @@
-﻿{
-  "version": "12.7.2",
+{
+  "version": "12.7.3",
   "download_url": "https://titaou-bedreddine.github.io/gym-manager-releases/GymManager.exe",
-  "changelog": "v12.7.2 — Correction de la normalisation des numéros de téléphone pour utiliser le format local 10 chiffres (0XXXXXXXXX), évitant les erreurs SCA (code 100005) sur les routeurs Huawei"
+  "changelog": "v12.7.3 — Résolution du problème de vérification des mises à jour lié au BOM UTF-8"
 }
