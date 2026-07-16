@@ -1,5 +1,5 @@
 {
-  "version": "13.0.0",
+  "version": "13.0.1",
   "download_url": "https://titaou-bedreddine.github.io/gym-manager-releases/GymManager.exe",
-  "changelog": "v13.0.0 — Vente Rapide (double-clic pour vendre, panneau integre dans la barre laterale qui utilise tout l'espace sous le logo), lecteurs RFID HID par trépied (1 IN + 1 OUT par trépied dans l'onglet RFID), impression de carte membre (photo/nom/sexe/âge/téléphone/type/début/fin) avec réglages imprimante + format + champs, bouton Retour dans l'historique des ventes (annule et restitue le stock), onglet Tarifs (cases à cocher visibles, icônes vertes retirées), boutons de barre d'outils de taille égale, version V13.0"
+  "changelog": "v13.0.1 — correctif: ouverture des Paramètres ne plante plus (énumération différée des imprimantes), panneau Vente Rapide intégré à la barre latérale + recherche de produits"
 }
