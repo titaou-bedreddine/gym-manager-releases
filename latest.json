@@ -1,5 +1,5 @@
 {
-  "version": "13.0.1",
+  "version": "13.0.2",
   "download_url": "https://titaou-bedreddine.github.io/gym-manager-releases/GymManager.exe",
-  "changelog": "v13.0.1 — correctif: ouverture des Paramètres ne plante plus (énumération différée des imprimantes), panneau Vente Rapide intégré à la barre latérale + recherche de produits"
+  "changelog": "v13.0.2 — correctif crash: ouverture des Paramètres ne plantait plus avec des trépieds configurés (NameError INP dans la grille de lecteurs HID par trépied)"
 }
