@@ -1,5 +1,5 @@
 {
-  "version": "13.0.2",
+  "version": "13.0.3",
   "download_url": "https://titaou-bedreddine.github.io/gym-manager-releases/GymManager.exe",
-  "changelog": "v13.0.2 — correctif crash: ouverture des Paramètres ne plantait plus avec des trépieds configurés (NameError INP dans la grille de lecteurs HID par trépied)"
+  "changelog": "v13.0.3 — nouveau design de carte membre: carte PVC claire, en-tête coloré (nom salle + logo), photo à gauche, détails à droite (nom/sexe/âge/téléphone/abonnement/début/fin/ID)"
 }
