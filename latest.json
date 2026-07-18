@@ -1,5 +1,5 @@
 {
-  "version": "13.0.3",
+  "version": "13.1.0",
   "download_url": "https://titaou-bedreddine.github.io/gym-manager-releases/GymManager.exe",
-  "changelog": "v13.0.3 — nouveau design de carte membre: carte PVC claire, en-tête coloré (nom salle + logo), photo à gauche, détails à droite (nom/sexe/âge/téléphone/abonnement/début/fin/ID)"
+  "changelog": "v13.1.0 — Support routeur Huawei B311 (correction erreur 125003: sélection du modèle B310/B311 dans les Paramètres) + bouton QR Telegram (toggle on/off, affichage flottant ou intégré à l'écran secondaire, capture automatique du Chat ID du membre)"
 }
