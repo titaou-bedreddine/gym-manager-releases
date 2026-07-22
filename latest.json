@@ -1,5 +1,5 @@
 {
-  "version": "13.3.0",
-  "download_url": "https://github.com/titaou-bedreddine/gym-manager-releases/releases/download/v13.3.0/GymManager.exe",
-  "changelog": "v13.3.0 - trepied single/multi toggle+test, RFID keyboard replace, mark-all-out fix, overnight cleanup, layout fix, D SMS/D TG, crash fix, 5min update check, scan cooldown"
+  "version": "13.3.1",
+  "download_url": "https://github.com/titaou-bedreddine/gym-manager-releases/releases/download/v13.3.1/GymManager.exe",
+  "changelog": "v13.3.1 - dynamic version string in all window titles (hotfix)"
 }
