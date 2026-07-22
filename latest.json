@@ -1,5 +1,5 @@
 {
-  "version": "13.3.2",
-  "download_url": "https://github.com/titaou-bedreddine/gym-manager-releases/releases/download/v13.3.2/GymManager.exe",
-  "changelog": "v13.3.2 - fix auto-update restart after install & revert to previous version (.prev)"
+  "version": "13.3.3",
+  "download_url": "https://github.com/titaou-bedreddine/gym-manager-releases/releases/download/v13.3.3/GymManager.exe",
+  "changelog": "v13.3.3 - fix guest auto-checkout grouping & heavy stress test verification"
 }
