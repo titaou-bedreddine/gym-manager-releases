@@ -1,5 +1,5 @@
 {
-  "version": "13.3.3",
-  "download_url": "https://github.com/titaou-bedreddine/gym-manager-releases/releases/download/v13.3.3/GymManager.exe",
-  "changelog": "v13.3.3 - fix guest auto-checkout grouping & heavy stress test verification"
+  "version": "14.0.0",
+  "download_url": "https://github.com/titaou-bedreddine/gym-manager-releases/releases/download/v14.0.0/GymManager.exe",
+  "changelog": "v14.0.0 — Rapports: nouvelle page Statistiques + filtre par utilisateur (recettes/ventes/charges); abonnements par séances (mode Durée/Sessions/Hybride); fix: renouvellement anticipé + sortie des membres hybrides; rapport de crash au développeur via Telegram (opt-in)."
 }
