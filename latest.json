@@ -1,5 +1,5 @@
 {
-  "version": "14.0.1",
-  "download_url": "https://github.com/titaou-bedreddine/gym-manager-releases/releases/download/v14.0.1/GymManager.exe",
-  "changelog": "v14.0.1 — hotfix: crash lors de l'envoi Telegram via le contact (QMessageBox depuis un thread); GUI-thread marshalling + log au crash reporter."
+  "version": "14.1.0",
+  "download_url": "https://github.com/titaou-bedreddine/gym-manager-releases/releases/download/v14.1.0/GymManager.exe",
+  "changelog": "v14.1.0 — Nouveautés:\n• ⏸ Pause Abn : gel de l'abonnement actif (entrée bloquée); la reprise reporte la date de fin du nombre exact de jours gelés (aucun jour perdu).\n• 🎟️ عدد الحصص المتبقية : compteur des séances restantes sur l'écran principal (panneau gauche) et le second écran pour les abonnements par séances / hybride.\n• 🧊 Second écran : un abonnement gelé s'affiche en BLEU avec une grande bannière traduite (FR / AR)."
 }
