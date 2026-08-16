@@ -1,5 +1,5 @@
 {
-  "version": "14.1.0",
-  "download_url": "https://github.com/titaou-bedreddine/gym-manager-releases/releases/download/v14.1.0/GymManager.exe",
-  "changelog": "v14.1.0 — Nouveautés:\n• ⏸ Pause Abn : gel de l'abonnement actif (entrée bloquée); la reprise reporte la date de fin du nombre exact de jours gelés (aucun jour perdu).\n• 🎟️ عدد الحصص المتبقية : compteur des séances restantes sur l'écran principal (panneau gauche) et le second écran pour les abonnements par séances / hybride.\n• 🧊 Second écran : un abonnement gelé s'affiche en BLEU avec une grande bannière traduite (FR / AR)."
+  "version": "14.2.0",
+  "download_url": "https://github.com/titaou-bedreddine/gym-manager-releases/releases/download/v14.2.0/GymManager.exe",
+  "changelog": "v14.2.0 — Nouveautés:\n• 🚀 Démarrage Rapide (Fast Boot) : nouvelle option dans Paramètres → Mises à jour. TitaouGym se pré-charge en arrière-plan au démarrage de Windows. Un double-clic sur l'icône du bureau l'ouvre INSTANTANÉMENT (connexion requise).\n• La capture RFID en arrière-plan reste active même pendant le pré-chargement caché.\n• Cliquer sur l'icône alors que l'application est déjà ouverte l'affiche au premier plan."
 }
