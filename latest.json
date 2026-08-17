@@ -1,5 +1,5 @@
 {
-  "version": "14.2.0",
-  "download_url": "https://github.com/titaou-bedreddine/gym-manager-releases/releases/download/v14.2.0/GymManager.exe",
-  "changelog": "v14.2.0 — Nouveautés:\n• 🚀 Démarrage Rapide (Fast Boot) : nouvelle option dans Paramètres → Mises à jour. TitaouGym se pré-charge en arrière-plan au démarrage de Windows. Un double-clic sur l'icône du bureau l'ouvre INSTANTANÉMENT (connexion requise).\n• La capture RFID en arrière-plan reste active même pendant le pré-chargement caché.\n• Cliquer sur l'icône alors que l'application est déjà ouverte l'affiche au premier plan."
+  "version": "14.2.1",
+  "download_url": "https://github.com/titaou-bedreddine/gym-manager-releases/releases/download/v14.2.1/GymManager.exe",
+  "changelog": "v14.2.1 — Correctif:\n• 🛠️ Corrige le crash au démarrage de Windows lorsque le Démarrage Rapide est activé ('unable to open database file'). Mettez simplement à jour — le démarrage automatique fonctionnera ensuite correctement."
 }
