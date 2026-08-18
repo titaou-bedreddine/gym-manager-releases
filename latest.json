@@ -1,5 +1,5 @@
 {
-  "version": "14.2.1",
-  "download_url": "https://github.com/titaou-bedreddine/gym-manager-releases/releases/download/v14.2.1/GymManager.exe",
-  "changelog": "v14.2.1 — Correctif:\n• 🛠️ Corrige le crash au démarrage de Windows lorsque le Démarrage Rapide est activé ('unable to open database file'). Mettez simplement à jour — le démarrage automatique fonctionnera ensuite correctement."
+  "version": "14.3.0",
+  "download_url": "https://github.com/titaou-bedreddine/gym-manager-releases/releases/download/v14.3.0/GymManager.exe",
+  "changelog": "v14.3.0 — Interface en ANGLAIS / English UI:\n• 🇬🇧 Full English interface: main screen, dialogs, POS, settings, login, reports — select English in Settings → Language and restart.\n• 🖥️ Second screen now supports English (FR / AR / EN) with an English clock.\n• Le français reste la langue par défaut."
 }
