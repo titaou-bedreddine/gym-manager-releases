@@ -1,5 +1,5 @@
 {
-  "version": "14.3.0",
-  "download_url": "https://github.com/titaou-bedreddine/gym-manager-releases/releases/download/v14.3.0/GymManager.exe",
-  "changelog": "v14.3.0 — Interface en ANGLAIS / English UI:\n• 🇬🇧 Full English interface: main screen, dialogs, POS, settings, login, reports — select English in Settings → Language and restart.\n• 🖥️ Second screen now supports English (FR / AR / EN) with an English clock.\n• Le français reste la langue par défaut."
+  "version": "14.4.0",
+  "download_url": "https://github.com/titaou-bedreddine/gym-manager-releases/releases/download/v14.4.0/GymManager.exe",
+  "changelog": "v14.4.0 — Correctifs recettes & filtres mensuels:\n• 🛠️ Corriger la Recette garde la date d'origine du paiement — les totaux mensuels ne changent plus après une correction.\n• 📅 Filtres rapides « Ce Mois » et « Mois Dernier » dans Recette (revenus) et Dettes.\n• 🃏 Convertisseur RFID (AZERTY/chiffres arabes) aussi sur l'ajout de cartes master.\n• 🖥️ Écran secondaire : bannière « 🔥 DERNIÈRE SÉANCE » si l'abonnement se termine aujourd'hui (FR/AR/EN)."
 }
