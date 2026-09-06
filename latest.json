@@ -1,5 +1,5 @@
 {
-  "version": "14.4.1",
-  "download_url": "https://github.com/titaou-bedreddine/gym-manager-releases/releases/download/v14.4.1/GymManager.exe",
-  "changelog": "v14.4.1 — Correctifs mise à jour & Fast Boot:\n• 🔄 Mise à jour : l'application demande la fermeture, s'arrête proprement puis REDÉMARRE AUTOMATIQUEMENT avec la nouvelle version.\n• 🐛 Fast Boot : correction du bug « l'application démarre sans la base de données » au démarrage de Windows — les fichiers sont toujours chargés depuis le dossier de l'application."
+  "version": "14.5.0",
+  "download_url": "https://github.com/titaou-bedreddine/gym-manager-releases/releases/download/v14.5.0/GymManager.exe",
+  "changelog": "v14.5.0 — Correctif SSL, renouvellement à date choisie & alerte dernière séance:\n• 🔒 Correction de l'erreur SSL CERTIFICATE_VERIFY_FAILED — la vérification des mises à jour fonctionne sur tous les PC.\n• 📅 Nouvelle option « COMMENCER LE... » au renouvellement : choisissez la date de début future, la fin se calcule automatiquement (+ durée du type).\n• 🔥 Alerte orange « DERNIÈRE SÉANCE » sur l'écran principal quand l'abonnement finit aujourd'hui (FR/AR/EN)."
 }
