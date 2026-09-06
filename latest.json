@@ -1,5 +1,5 @@
 {
-  "version": "14.5.1",
-  "download_url": "https://github.com/titaou-bedreddine/gym-manager-releases/releases/download/v14.5.1/GymManager.exe",
-  "changelog": "v14.5.1 — Correction du renouvellement à date choisie:\n• 🐛 La date de début future choisie (ex: 15/09 via « COMMENCER LE... ») n'est plus réinitialisée au jour même lors de l'enregistrement — la date choisie et la fin calculée sont conservées."
+  "version": "14.5.2",
+  "download_url": "https://github.com/titaou-bedreddine/gym-manager-releases/releases/download/v14.5.2/GymManager.exe",
+  "changelog": "v14.5.2 — Correction abonnement futur:\n• 🐛 Un membre dont l'abonnement commence à une date future ne voit plus « expiré » au scan — il voit « ⏳ commencera le 15/09/2026 » (popup), « PAS ENCORE » (panneau) et « 📅 L'abonnement commence le... » (écran secondaire). FR / EN / AR."
 }
