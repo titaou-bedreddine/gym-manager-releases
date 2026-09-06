@@ -1,5 +1,5 @@
 {
-  "version": "14.5.0",
-  "download_url": "https://github.com/titaou-bedreddine/gym-manager-releases/releases/download/v14.5.0/GymManager.exe",
-  "changelog": "v14.5.0 — Correctif SSL, renouvellement à date choisie & alerte dernière séance:\n• 🔒 Correction de l'erreur SSL CERTIFICATE_VERIFY_FAILED — la vérification des mises à jour fonctionne sur tous les PC.\n• 📅 Nouvelle option « COMMENCER LE... » au renouvellement : choisissez la date de début future, la fin se calcule automatiquement (+ durée du type).\n• 🔥 Alerte orange « DERNIÈRE SÉANCE » sur l'écran principal quand l'abonnement finit aujourd'hui (FR/AR/EN)."
+  "version": "14.5.1",
+  "download_url": "https://github.com/titaou-bedreddine/gym-manager-releases/releases/download/v14.5.1/GymManager.exe",
+  "changelog": "v14.5.1 — Correction du renouvellement à date choisie:\n• 🐛 La date de début future choisie (ex: 15/09 via « COMMENCER LE... ») n'est plus réinitialisée au jour même lors de l'enregistrement — la date choisie et la fin calculée sont conservées."
 }
